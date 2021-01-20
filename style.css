@@ -97,7 +97,8 @@ li a{
 	max-width: 220px;
 	max-height: 80px;
 	float: left;
-    margin-top: 9px;
+    margin-top: 15px;
+    margin-left: 25px;
 }
 
 
@@ -222,4 +223,25 @@ li a{
 .rusl .info{
     text-align: right;
     padding-top: 45px;
+}
+
+
+footer{
+    width: 98%;
+    padding:15px;
+    background-color: #FAF0E6;
+    text-align: center;
+}
+.footer_info{
+    margin: 0 auto;
+    width: auto;
+    font-family: Courier New, monospace ;
+    font-size: 18px;
+    letter-spacing: 0px;
+}
+.footer_info a{
+    color: black;
+}
+.footer_info a:hover{
+    font-weight: 900;
 }
