@@ -99,3 +99,35 @@ li a{
 	float: left;
     margin-top: 9px;
 }
+
+
+.container2{
+    background-color: black;
+    width: 100%;
+    height: all;
+    padding-top: 20px;
+}
+.max1
+{
+	min-height: 380px;
+	color: #000;
+	font-family: Courier New, monospace ;
+	font-weight: 520px;
+	text-align: center;
+	font-size: 22px;
+    background-color: #FAF0E6;
+}
+.max1 .text
+{
+	width: 1050px;
+	margin-left: 70px;
+	margin-right: 70px;
+	padding-top: 35px;
+}
+.max1 img
+{
+	float: right;
+	width: auto;
+	height: 380px;
+	margin: auto 0px;
+}
