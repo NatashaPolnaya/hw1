@@ -223,3 +223,24 @@ li a{
     text-align: right;
     padding-top: 45px;
 }
+
+
+footer{
+    width: 100%;
+    padding:15px;
+    background-color: #FAF0E6;
+    text-align: center;
+}
+.footer_info{
+    margin: 0 auto;
+    width: auto;
+    font-family: Courier New, monospace ;
+    font-size: 18px;
+    letter-spacing: 0px;
+}
+.footer_info a{
+    color: black;
+}
+.footer_info a:hover{
+    font-weight: 900;
+}
