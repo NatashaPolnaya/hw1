@@ -1,3 +1,7 @@
+html,body{
+    margin: 0;
+    padding: 0;
+}
 header
 {
     display: block;
@@ -37,9 +41,9 @@ header
 	text-transform: uppercase;
 	min-height: 35px; 
 	border: 1px solid black;
-	padding-top: 7px;
+    padding-top: 13px;
 }
-.header .buttonn:hover
+.buttonn:hover
 {
 	border: 3px solid #FAF0E6;
 	background-color: black;
@@ -59,7 +63,8 @@ a{
 }
 a:hover{
 	color: #FAF0E6;
-	cursor: pointer;
+    cursor: pointer;
+    text-decoration: underline;
 }
 ul{
 	margin: 0 auto;
@@ -81,4 +86,16 @@ li a{
 	padding: 0 15px;
 	text-decoration: none;
 	line-height: 100px;
+}
+.header_logo{
+	position: relative;
+    z-index: 5;
+    width: 300px;
+}
+.header_logo img
+{
+	max-width: 220px;
+	max-height: 80px;
+	float: left;
+    margin-top: 9px;
 }
