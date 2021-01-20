@@ -97,7 +97,8 @@ li a{
 	max-width: 220px;
 	max-height: 80px;
 	float: left;
-    margin-top: 9px;
+    margin-top: 15px;
+    margin-left: 25px;
 }
 
 
@@ -226,7 +227,7 @@ li a{
 
 
 footer{
-    width: 100%;
+    width: 98%;
     padding:15px;
     background-color: #FAF0E6;
     text-align: center;
